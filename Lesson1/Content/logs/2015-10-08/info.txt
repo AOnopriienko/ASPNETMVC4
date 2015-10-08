@@ -1,0 +1,2 @@
+2015-10-08 18:31:18.8237|INFO|Lesson1.App_Start.PreStartApp|Application PreStart
+2015-10-08 18:31:21.7480|INFO|Lesson1.MvcApplication|Application Start
